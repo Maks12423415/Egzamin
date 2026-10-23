@@ -1,0 +1,14 @@
+C:\Users\maks.samborski\source\repos\konsola\konsola\bin\Debug\net8.0\konsola.exe
+C:\Users\maks.samborski\source\repos\konsola\konsola\bin\Debug\net8.0\konsola.deps.json
+C:\Users\maks.samborski\source\repos\konsola\konsola\bin\Debug\net8.0\konsola.runtimeconfig.json
+C:\Users\maks.samborski\source\repos\konsola\konsola\bin\Debug\net8.0\konsola.dll
+C:\Users\maks.samborski\source\repos\konsola\konsola\bin\Debug\net8.0\konsola.pdb
+C:\Users\maks.samborski\source\repos\konsola\konsola\obj\Debug\net8.0\konsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maks.samborski\source\repos\konsola\konsola\obj\Debug\net8.0\konsola.AssemblyInfoInputs.cache
+C:\Users\maks.samborski\source\repos\konsola\konsola\obj\Debug\net8.0\konsola.AssemblyInfo.cs
+C:\Users\maks.samborski\source\repos\konsola\konsola\obj\Debug\net8.0\konsola.csproj.CoreCompileInputs.cache
+C:\Users\maks.samborski\source\repos\konsola\konsola\obj\Debug\net8.0\konsola.dll
+C:\Users\maks.samborski\source\repos\konsola\konsola\obj\Debug\net8.0\refint\konsola.dll
+C:\Users\maks.samborski\source\repos\konsola\konsola\obj\Debug\net8.0\konsola.pdb
+C:\Users\maks.samborski\source\repos\konsola\konsola\obj\Debug\net8.0\konsola.genruntimeconfig.cache
+C:\Users\maks.samborski\source\repos\konsola\konsola\obj\Debug\net8.0\ref\konsola.dll
