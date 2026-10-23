@@ -1,0 +1,7 @@
+System operacyjny: Windows 11
+Środowiska programistyczne:
+-Visual Studio
+-Visual studio Code
+Języki programowania:
+-C#
+-React
